@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Navod Senarathne - Designer | 3D Artist | Developer</title>
+	<title>NavodSen Github</title>
 </head>
 <body>
 	<h1>Test Page</h1>
